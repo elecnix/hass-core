@@ -1313,6 +1313,8 @@ build.json @home-assistant/supervisor
 /tests/components/thread/ @home-assistant/core
 /homeassistant/components/tibber/ @danielhiversen
 /tests/components/tibber/ @danielhiversen
+/homeassistant/components/ticktick/ @elecnix
+/tests/components/ticktick/ @elecnix
 /homeassistant/components/tile/ @bachya
 /tests/components/tile/ @bachya
 /homeassistant/components/tilt_ble/ @apt-itude

@@ -2615,6 +2615,9 @@ thermoworks-smoke==0.1.8
 # homeassistant.components.thingspeak
 thingspeak==1.0.0
 
+# homeassistant.components.ticktick
+ticktick-py==2.0.3
+
 # homeassistant.components.tikteck
 tikteck==0.4
 

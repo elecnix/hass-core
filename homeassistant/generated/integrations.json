@@ -5867,6 +5867,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "ticktick": {
+      "name": "TickTick",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_push"
+    },
     "tikteck": {
       "name": "Tikteck",
       "integration_type": "hub",

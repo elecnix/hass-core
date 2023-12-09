@@ -493,6 +493,7 @@ FLOWS = {
         "thermopro",
         "thread",
         "tibber",
+        "ticktick",
         "tile",
         "tilt_ble",
         "todoist",
